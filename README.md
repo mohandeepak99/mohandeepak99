@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Mohan Deepak
-- 👀 I’m interested in Big data
-- 🌱 I’m currently learning Hadoop | Spark
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ommi-mohan-deepak/)
 
 <!---
